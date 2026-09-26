@@ -1,0 +1,30 @@
+{
+  "name": "motionply-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.tsx",
+    "check": "tsc --noEmit",
+    "render": "remotion render src/index.tsx MeuVideo out/edicao-motion.mp4 --codec=h264 --crf=18",
+    "render:tipo": "remotion render src/index.tsx TipoVideo out/tipografia-motion.mp4 --codec=h264 --crf=18",
+    "render:tela": "remotion render src/index.tsx TelaVideo out/tipografia-motion-16x9.mp4 --codec=h264 --crf=18"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.482",
+    "@remotion/google-fonts": "^4.0.482",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.482"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "^4.0.482",
+    "@remotion/renderer": "^4.0.482",
+    "@types/react": "19.2.7",
+    "typescript": "5.8.3"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  },
+  "author": "@oviniciusply",
+  "description": "MotionPly — template Remotion de edição de reels (Edição Motion e Tipografia Motion)"
+}

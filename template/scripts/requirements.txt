@@ -1,0 +1,7 @@
+# Python 3.10+  →  pip install -r scripts/requirements.txt
+av>=12
+faster-whisper>=1.0
+opencv-python>=4.8   # precisa de cv2.FaceDetectorYN (YuNet)
+numpy
+pillow
+scipy

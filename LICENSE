@@ -1,0 +1,22 @@
+MotionPly — Licença de uso
+Copyright (c) 2026 @oviniciusply. Todos os direitos reservados.
+
+Este repositório (instruções, documentos, código, scripts e imagens) é disponibilizado exclusivamente a
+alunos do treinamento MotionPly que receberam convite de acesso.
+
+Você PODE:
+- instalar e usar a skill em seus próprios computadores para editar seus vídeos e os de seus clientes;
+- modificar sua cópia para uso próprio.
+
+Você NÃO PODE:
+- redistribuir, publicar, revender, sublicenciar ou compartilhar este repositório ou partes dele,
+  gratuitamente ou mediante pagamento, inclusive em forma modificada;
+- compartilhar seu acesso ou conta com terceiros.
+
+O acesso pode ser revogado em caso de violação destes termos, fim do período de acesso ou reembolso.
+
+Componentes de terceiros (Remotion, faster-whisper, OpenCV/YuNet, fontes Google Fonts e demais
+dependências) seguem suas próprias licenças, que o usuário deve respeitar — em especial a licença do
+Remotion para uso por empresas.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER TIPO.

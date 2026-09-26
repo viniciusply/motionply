@@ -1,0 +1,11 @@
+node_modules/
+out/
+*.mp4
+*.mov
+*.MOV
+__pycache__/
+*.pyc
+audio16k.wav
+bruto_cortado.mp4
+.DS_Store
+Thumbs.db
