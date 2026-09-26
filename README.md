@@ -5,16 +5,12 @@ Skill de edição de reels e vídeos narrados com IA (Claude Code + Remotion), e
 (tipografia editorial, zooms por frase, espelhamento e face tracking — vertical 9:16 e gravação de tela 16:9).
 Inclui decupagem automática do vídeo bruto.
 
-> Repositório **privado**, exclusivo para alunos do treinamento. Acesso por convite.
+> Uso sujeito à [licença](LICENSE): uso pessoal do comprador, proibido redistribuir ou revender.
 
-## 1. Primeiro acesso
+## 1. Requisitos
 
-1. Crie uma conta no GitHub (se ainda não tiver) e envie seu **usuário do GitHub** para o suporte do treinamento.
-2. Aceite o convite que chega no seu e-mail (ou em github.com/notifications).
-3. No computador, conecte o GitHub uma vez (o Claude Code pode fazer isso com você):
-   ```bash
-   gh auth login
-   ```
+- Claude Code instalado.
+- Node.js LTS e Python 3.10+ (o próprio Claude Code pode instalar com você — veja [LEIA-ME.md](LEIA-ME.md)).
 
 ## 2. Instalar a skill
 
@@ -28,7 +24,6 @@ git clone https://github.com/viniciusply/motionply.git ~/.claude/skills/motionpl
 ```
 (Windows/PowerShell: `git clone https://github.com/viniciusply/motionply.git "$HOME\.claude\skills\motionply"`)
 
-Depois, instale os requisitos (Node.js LTS e Python 3.10+) — veja [LEIA-ME.md](LEIA-ME.md).
 
 ## 3. Usar
 
